@@ -1,6 +1,12 @@
-### Heyman, I am Iman 👋
+### Hey man, I am Iman: 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me: 
+- Telegram: https://t.me/imanghafoori
+- gmail: imanghafoori1@gmail.com
+
+- ⚡ You may hire me if you need a laravel expert, for a remote job.
 
 <!--
 **imanghafoori1/imanghafoori1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
