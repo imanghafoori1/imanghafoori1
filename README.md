@@ -1,6 +1,6 @@
 ### Hey man, I am Iman: 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imanghafoori1)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
 - Telegram: https://t.me/imanghafoori
