@@ -3,8 +3,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imanghafoori1)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
-- Telegram: https://t.me/imanghafoori
-- gmail: imanghafoori1@gmail.com
+- [Telegram](https://t.me/imanghafoori): https://t.me/imanghafoori
+- [gmail](mailto:imanghafoori1@gmail.com): imanghafoori1@gmail.com
 
 - ⚡ You may hire me if you need a laravel expert, for a remote job.
 
