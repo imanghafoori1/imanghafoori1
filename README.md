@@ -4,9 +4,6 @@
 
 - 📫 How to reach me: 
 - [Telegram](https://t.me/imanghafoori): https://t.me/imanghafoori
-- [gmail](mailto:imanghafoori1@gmail.com): imanghafoori1@gmail.com
-
-
 
 - ⚡ You may hire me if you need a laravel expert, for a remote job.
 
