@@ -1,10 +1,11 @@
 ### Hey man, I am Iman: 👋
 
 
-### Hire me:
+### Available for a remote job:
 -  ⚡  You may hire me if you need a laravel expert, for a remote job.
 
 - 📫 How to reach me: 
+
 [![Gmail Badge](https://img.shields.io/badge/-imanghafoori1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:imanghafoori1@gmail.com)](mailto:imanghafoori1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Iman%20Ghafoori-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iman-ghafoori/)](https://linkedin.com/in/iman-ghafoori/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/imanghafoori/)](https://t.me/imanghafoori/)
