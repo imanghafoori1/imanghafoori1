@@ -1,4 +1,4 @@
-### Hey man, I am Iman: 👋
+### I am Iman: 👋
 
 
 ### Available for a remote job:
