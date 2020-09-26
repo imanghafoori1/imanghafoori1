@@ -34,3 +34,4 @@
 - https://github.com/imanghafoori1/laravel-temp-tag
 - https://github.com/imanghafoori1/laravel-decorator
 - https://github.com/imanghafoori1/laravel-nullable
+- https://github.com/imanghafoori1/eloquent-history
