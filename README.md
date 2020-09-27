@@ -18,7 +18,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=imanghafoori1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanghafoori1&layout=compact)](https://github.com/imanghafoori1/github-readme-stats)
 
-#### I have a handful of laavel packages:
+#### I have a handful of laravel packages:
 
 ### Auth Stuff:
 - https://github.com/imanghafoori1/laravel-masterpass
