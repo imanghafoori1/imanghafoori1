@@ -20,19 +20,28 @@
 
 #### I have a handful of laavel packages:
 
-- https://github.com/imanghafoori1/laravel-widgetize
-- https://github.com/imanghafoori1/laravel-heyman
-- https://github.com/imanghafoori1/laravel-microscope
-- https://github.com/imanghafoori1/laravel-temp-tag
-- https://github.com/imanghafoori1/laravel-middlewarize
-- https://github.com/imanghafoori1/laravel-tokenized-login
-- https://github.com/imanghafoori1/laravel-smart-facades
-- https://github.com/imanghafoori1/laravel-terminator
-- https://github.com/imanghafoori1/laravel-video
-- https://github.com/imanghafoori1/eloquent-relativity
+### Auth Stuff:
 - https://github.com/imanghafoori1/laravel-masterpass
-- https://github.com/imanghafoori1/laravel-anypass
+- https://github.com/imanghafoori1/laravel-anypass      (dev only)
 - https://github.com/imanghafoori1/laravel-password-history
+- https://github.com/imanghafoori1/laravel-tokenized-login
+
+### Eloquent:
+- https://github.com/imanghafoori1/eloquent-history
+- https://github.com/imanghafoori1/laravel-temp-tag
+- https://github.com/imanghafoori1/eloquent-relativity
+
+### Debug Assistant:
+- https://github.com/imanghafoori1/laravel-microscope
+
+### Design pattern:
 - https://github.com/imanghafoori1/laravel-decorator
 - https://github.com/imanghafoori1/laravel-nullable
-- https://github.com/imanghafoori1/eloquent-history
+- https://github.com/imanghafoori1/laravel-widgetize
+- https://github.com/imanghafoori1/laravel-heyman
+- https://github.com/imanghafoori1/laravel-middlewarize
+- https://github.com/imanghafoori1/laravel-smart-facades
+- https://github.com/imanghafoori1/laravel-terminator
+
+### Utility:
+- https://github.com/imanghafoori1/laravel-video
