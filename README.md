@@ -27,7 +27,10 @@
 - https://github.com/imanghafoori1/eloquent-relativity
 
 #### Debug Assistant:
-- https://github.com/imanghafoori1/laravel-microscope
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/imanghafoori1/laravel-microscope" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star imanghafoori1/laravel-microscope on GitHub">Star</a>
+
+- https://github.com/imanghafoori1/laravel-microscope 
 
 #### Design pattern:
 - https://github.com/imanghafoori1/laravel-decorator
