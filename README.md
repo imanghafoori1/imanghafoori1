@@ -27,9 +27,7 @@
 - https://github.com/imanghafoori1/eloquent-relativity
 
 #### Debug Assistant:
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/imanghafoori1/laravel-microscope" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star imanghafoori1/laravel-microscope on GitHub">Star</a>
-
+[![star this repo](https://githubbadges.com/star.svg?user=imanghafoori1&repo=laravel-microscope&style=flat-square)](https://github.com/imanghafoori1/laravel-microscope)
 - https://github.com/imanghafoori1/laravel-microscope 
 
 #### Design pattern:
@@ -47,5 +45,3 @@
 ### My contributions to laravel core:
 - https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
