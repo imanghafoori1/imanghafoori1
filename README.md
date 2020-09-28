@@ -27,9 +27,7 @@
 - https://github.com/imanghafoori1/eloquent-relativity
 
 #### Debug Assistant:
-[![star this repo](https://githubbadges.com/star.svg?user=imanghafoori1&repo=laravel-microscope&style=flat-square)](https://github.com/imanghafoori1/laravel-microscope)
-- https://github.com/imanghafoori1/laravel-microscope 
-
+ https://github.com/imanghafoori1/laravel-microscope <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-microscope">
 #### Design pattern:
 - https://github.com/imanghafoori1/laravel-decorator
 - https://github.com/imanghafoori1/laravel-nullable
