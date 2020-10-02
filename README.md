@@ -40,6 +40,6 @@
 #### Utility:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> https://github.com/imanghafoori1/laravel-video
 
-### My contributions to laravel core:
+### My contributions to laravel/framework:
 - https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+
 
