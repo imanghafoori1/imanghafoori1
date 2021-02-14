@@ -41,5 +41,5 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> https://github.com/imanghafoori1/laravel-video
 
 ### My contributions to laravel/framework:
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+">Merged PRs on laravel/framework</a>
+- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+">My Merged PRs on laravel/framework</a>
 
