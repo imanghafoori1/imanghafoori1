@@ -27,19 +27,19 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades"> https://github.com/imanghafoori1/laravel-smart-facades
 
 #### Auth Stuff:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> https://github.com/imanghafoori1/laravel-masterpass
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> <a href="https://github.com/imanghafoori1/laravel-masterpass"> eloquent-masterpass</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-anypass"> https://github.com/imanghafoori1/laravel-anypass      (dev only)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-password-history"> https://github.com/imanghafoori1/laravel-password-history
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-tokenize-login"> https://github.com/imanghafoori1/laravel-tokenized-login
 
 #### Eloquent:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-relativity"> https://github.com/imanghafoori1/eloquent-relativity
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> https://github.com/imanghafoori1/eloquent-history
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> https://github.com/imanghafoori1/laravel-temp-tag
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-relativity"> <a href="https://github.com/imanghafoori1/eloquent-relativity"> eloquent-relativity</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/laravel-temp-tag"> laravel-temp-tag</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> <a href="https://github.com/imanghafoori1/eloquent-history"> eloquent-history</a>
 
 #### Utility:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> https://github.com/imanghafoori1/laravel-video
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> laravel-video</a>
 
 ### My contributions to laravel/framework:
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+">My Merged PRs on laravel/framework</a>
+- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+"> My Merged PRs on laravel/framework</a>
 
