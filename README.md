@@ -27,13 +27,13 @@
 
 #### Auth Stuff:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> <a href="https://github.com/imanghafoori1/laravel-masterpass">  Laravel Master Password</a> (Securely Login with Master Password)
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-anypass"> <a href="https://github.com/imanghafoori1/laravel-anypass"> Laravel Any Password</a>      (dev only)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-anypass"> <a href="https://github.com/imanghafoori1/laravel-anypass"> Laravel Any Password</a> (Allows you to login with any password on local environment)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-password-history"> <a href="https://github.com/imanghafoori1/laravel-password-history"> Laravel Password History</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-tokenize-login"> <a href="https://github.com/imanghafoori1/laravel-tokenized-login"> Laravel Tokenize Login</a> (Passwordless Login)
 
 #### Eloquent:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-relativity"> <a href="https://github.com/imanghafoori1/eloquent-relativity"> Eloquent Relativity</a>
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> <a href="https://github.com/imanghafoori1/laravel-temp-tag"> Laravel Temp Tag</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> <a href="https://github.com/imanghafoori1/laravel-temp-tag"> Laravel Temp Tag</a> (Tag Any Eloquent Model Instance)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/eloquent-history"> Eloquent History</a>
 
 #### Utility:
