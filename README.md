@@ -28,7 +28,7 @@
 #### Auth Stuff:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> <a href="https://github.com/imanghafoori1/laravel-masterpass">  Laravel Master Password</a> (Securely Login with Master Password)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-anypass"> <a href="https://github.com/imanghafoori1/laravel-anypass"> Laravel Any Password</a> (Allows you to login with any password on local environment)
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-password-history"> <a href="https://github.com/imanghafoori1/laravel-password-history"> Laravel Password History</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-password-history"> <a href="https://github.com/imanghafoori1/laravel-password-history"> Laravel Password History</a> (Force users to reset to a never used password like gmail does)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-tokenize-login"> <a href="https://github.com/imanghafoori1/laravel-tokenized-login"> Laravel Tokenize Login</a> (Passwordless Login)
 
 #### Eloquent:
