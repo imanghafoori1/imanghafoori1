@@ -37,7 +37,7 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/eloquent-history"> Eloquent History</a>
 
 #### Utility:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> Laravel Video</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> Laravel Video</a>(Stream Videos in Laravel)
 
 ### My contributions to laravel/framework:
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+"> My Merged PRs on laravel/framework</a>
