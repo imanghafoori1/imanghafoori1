@@ -15,9 +15,9 @@
 ### I have a handful of laravel packages:
 
 #### Debug Assistant:
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-microscope"> https://github.com/imanghafoori1/laravel-microscope
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-microscope"> <a href="https://github.com/imanghafoori1/laravel-microscope">  Laravel Microscope</a> (Smart bug finder and fixer)
 #### Design pattern:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-widgetize"> https://github.com/imanghafoori1/laravel-widgetize
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-widgetize"> <a href="https://github.com/imanghafoori1/laravel-widgetize">  Laravel Widgetize</a> (Page Partial Caching)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-heyman"> https://github.com/imanghafoori1/laravel-heyman
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-terminator"> https://github.com/imanghafoori1/laravel-terminator
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-decorator"> https://github.com/imanghafoori1/laravel-decorator
@@ -32,12 +32,12 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-tokenize-login"> <a href="https://github.com/imanghafoori1/laravel-tokenized-login"> Laravel Tokenize Login</a> (Passwordless Login)
 
 #### Eloquent:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-relativity"> <a href="https://github.com/imanghafoori1/eloquent-relativity"> Eloquent Relativity</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-relativity"> <a href="https://github.com/imanghafoori1/eloquent-relativity"> Eloquent Relativity</a> (Decouple your eloquent models)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> <a href="https://github.com/imanghafoori1/laravel-temp-tag"> Laravel Temp Tag</a> (Tag Any Eloquent Model Instance)
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/eloquent-history"> Eloquent History</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/eloquent-history"> Eloquent History</a> (Keep track of your eloquent model changes)
 
 #### Utility:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> Laravel Video</a>(Stream Videos in Laravel)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> Laravel Video</a> (Stream Videos in Laravel)
 
 ### My contributions to laravel/framework:
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+"> My Merged PRs on laravel/framework</a>
