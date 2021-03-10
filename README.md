@@ -23,7 +23,7 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-decorator"> <a href="https://github.com/imanghafoori1/laravel-decorator"> Laravel Decorator</a> 
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-nullable"> <a href="https://github.com/imanghafoori1/laravel-nullable"> Laravel Nullable</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-middlewarize">  <a href="https://github.com/imanghafoori1/laravel-middlewarize"> Laravel Middlewarize</a>
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades"> https://github.com/imanghafoori1/laravel-smart-facades
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades">  <a href="https://github.com/imanghafoori1/laravel-smart-facades"> Laravel Smart Facades</a>
 
 #### Auth Stuff:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> <a href="https://github.com/imanghafoori1/laravel-masterpass">  Laravel Master Password</a> (Securely Login with Master Password)
