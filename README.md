@@ -42,9 +42,17 @@
 ### My contributions to laravel/framework:
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+"> My Merged PRs on laravel/framework</a>
 
+
+## Sponsors:
+- No one yet!
+
+(Add your github username here by donating me some crypto)
+
 ## Donation:
 
-Bitcoin: bc1qvgvr73dvkd0kg6rclhv4j46gef9cwau7zg4j3c
-Etherium: 0xc3AADEc2238B8a37855c0503849d34a870feca46 (ERC20)
-LiteCoin: ltc1qelkw54rwxv5p85t7lndfwnv735dluggl20luku
-Doge: DMZ814oL28ZWsstfn742mZ2uDtNShzGfhg
+- Bitcoin: **bc1qvgvr73dvkd0kg6rclhv4j46gef9cwau7zg4j3c**
+- Etherium: **0xc3AADEc2238B8a37855c0503849d34a870feca46** (ERC20)
+- LiteCoin: **ltc1qelkw54rwxv5p85t7lndfwnv735dluggl20luku**
+- Doge: **DMZ814oL28ZWsstfn742mZ2uDtNShzGfhg**
+
+
