@@ -24,6 +24,7 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-nullable"> <a href="https://github.com/imanghafoori1/laravel-nullable"> Laravel Nullable</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-middlewarize">  <a href="https://github.com/imanghafoori1/laravel-middlewarize"> Laravel Middlewarize</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades">  <a href="https://github.com/imanghafoori1/laravel-smart-facades"> Laravel Smart Facades</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/smart-realtime-facades">  <a href="https://github.com/imanghafoori1/smart-realtime-facades"> Smart Real-time Facades</a>
 
 #### Auth Stuff:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> <a href="https://github.com/imanghafoori1/laravel-masterpass">  Laravel Master Password</a> (Securely Login with Master Password)
@@ -32,12 +33,12 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-tokenize-login"> <a href="https://github.com/imanghafoori1/laravel-tokenized-login"> Laravel Tokenize Login</a> (Passwordless Login)
 
 #### Eloquent:
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-relativity"> <a href="https://github.com/imanghafoori1/eloquent-relativity"> Eloquent Relativity</a> (Decouple your eloquent models)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> <a href="https://github.com/imanghafoori1/laravel-temp-tag"> Laravel Temp Tag</a> (Tag Any Eloquent Model Instance)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/eloquent-history"> Eloquent History</a> (Keep track of your eloquent model changes)
 
 #### Utility:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> Laravel Video</a> (Stream Videos in Laravel)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-file-cache-cleaner"> <a href="https://github.com/imanghafoori1/laravel-file-cache-cleaner"> Laravel File Cache Cleaner</a> (Clean-up expired cached items in filesystem)
 
 ### My contributions to laravel/framework:
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+"> My Merged PRs on laravel/framework</a>
