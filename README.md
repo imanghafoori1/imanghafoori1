@@ -22,9 +22,9 @@
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-terminator"> <a href="https://github.com/imanghafoori1/laravel-terminator"> Laravel Terminator</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-decorator"> <a href="https://github.com/imanghafoori1/laravel-decorator"> Laravel Decorator</a> 
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-nullable"> <a href="https://github.com/imanghafoori1/laravel-nullable"> Laravel Nullable</a>
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-middlewarize">  <a href="https://github.com/imanghafoori1/laravel-middlewarize"> Laravel Middlewarize</a>
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades">  <a href="https://github.com/imanghafoori1/laravel-smart-facades"> Laravel Smart Facades</a>
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/smart-realtime-facades">  <a href="https://github.com/imanghafoori1/smart-realtime-facades"> Smart Real-time Facades</a>
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-middlewarize">  <a href="https://github.com/imanghafoori1/laravel-middlewarize"> Laravel Middlewarize</a> (Decorate your method calls using pipelines)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades">  <a href="https://github.com/imanghafoori1/laravel-smart-facades"> Laravel Smart Facades</a> (More features on the top of the facades)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/smart-realtime-facades">  <a href="https://github.com/imanghafoori1/smart-realtime-facades"> Smart Real-time Facades</a> (Auto-completetion for real-time facades)
 
 #### Auth Stuff:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-masterpass"> <a href="https://github.com/imanghafoori1/laravel-masterpass">  Laravel Master Password</a> (Securely Login with Master Password)
