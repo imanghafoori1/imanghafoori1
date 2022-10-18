@@ -19,8 +19,8 @@
 #### Design pattern:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-widgetize"> <a href="https://github.com/imanghafoori1/laravel-widgetize"> Laravel Widgetize</a> (Page Partial Caching)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-heyman"> <a href="https://github.com/imanghafoori1/laravel-heyman"> Laravel Heyman</a> (Declarative programming in laravel)
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-terminator"> <a href="https://github.com/imanghafoori1/laravel-terminator"> Laravel Terminator</a>
-- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-decorator"> <a href="https://github.com/imanghafoori1/laravel-decorator"> Laravel Decorator</a> 
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-terminator"> <a href="https://github.com/imanghafoori1/laravel-terminator"> Laravel Terminator</a> (Tell don't ask in laravel)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-decorator"> <a href="https://github.com/imanghafoori1/laravel-decorator"> Laravel Decorator</a> (Decorator pattern in laravel)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-nullable"> <a href="https://github.com/imanghafoori1/laravel-nullable"> Laravel Nullable</a>
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-middlewarize">  <a href="https://github.com/imanghafoori1/laravel-middlewarize"> Laravel Middlewarize</a> (Decorate your method calls using pipelines)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-smart-facades">  <a href="https://github.com/imanghafoori1/laravel-smart-facades"> Laravel Smart Facades</a> (More features on the top of the facades)
