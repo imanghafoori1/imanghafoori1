@@ -12,7 +12,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=imanghafoori1)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanghafoori1&layout=compact)](https://github.com/imanghafoori1/github-readme-stats)
 
-### I have a handful of laravel packages
+### I have a handful of laravel packages:
 
 #### Debug Assistant:
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-microscope"> <a href="https://github.com/imanghafoori1/laravel-microscope">  Laravel Microscope</a> (Smart bug finder and fixer)
