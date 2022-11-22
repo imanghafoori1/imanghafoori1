@@ -34,7 +34,7 @@
 
 #### Testing:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-mockery"> <a href="https://github.com/imanghafoori1/eloquent-mockery"> Eloquent Mockery</a> (Adds the missing "php array" driver to the Eloquent)
-- 
+
 #### Eloquent:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-temp-tag"> <a href="https://github.com/imanghafoori1/laravel-temp-tag"> Laravel Temp Tag</a> (Tag Any Eloquent Model Instance)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/eloquent-history"> <a href="https://github.com/imanghafoori1/eloquent-history"> Eloquent History</a> (Keep track of your eloquent model changes)
