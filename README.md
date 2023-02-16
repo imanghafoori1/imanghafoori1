@@ -42,6 +42,7 @@
 #### Utility:
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-video"> <a href="https://github.com/imanghafoori1/laravel-video"> Laravel Video</a> (Stream Videos in Laravel)
 - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/laravel-file-cache-cleaner"> <a href="https://github.com/imanghafoori1/laravel-file-cache-cleaner"> Laravel File Cache Cleaner</a> (Clean-up expired cached items in filesystem)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/imanghafoori/composer-json"><a href="https://github.com/imanghafoori1/composer-json"> Composer Json Reader</a> (Read from composer.json file easily)
 
 ### My contributions to laravel/framework:
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aimanghafoori1+"> My Merged PRs on laravel/framework</a>
